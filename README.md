@@ -1,1 +1,43 @@
 # alwayslearning
+
+# LINUX
+
+
+# CLOUD PROVIDER
+
+## AWS
+
+## AZURE
+
+## GOOGLE CLOUD
+
+## OCI
+
+## DIGITAL OCEAN
+
+
+# CI/CD
+
+## GITHUB ACTIONS
+
+## GITLAB
+
+## AZURE DEVOPS
+
+
+# CONTAINERS
+
+## DOCKER
+
+## KUBERNETES
+
+## EKS
+
+## AKS
+
+## GKE
+
+## OKE
+
+
+# MONITORING
